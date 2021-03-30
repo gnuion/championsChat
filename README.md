@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![example-app](./20201-03-29.gif)
+![example-app](20201-03-29.gif)
 
 ## My process
 
