@@ -41,20 +41,3 @@ Thanks, Champions Club!
 
 **Note: Please, when I make the app available, use a unique password to register and don't share sensible information using it..**
 =======
-# champions_chat
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 6322b40c3cd29f3cc3b0c338b97911224d3cd655
