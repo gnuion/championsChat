@@ -28,15 +28,15 @@ Users should be able to:
 
 - Creativity
 - Champions
-- [Flutter] (https://flutter.dev/)
-- [Dart] (https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 - [Google](https://www.google.com/) - Google searching
 
 ## Authors
 
 - Champion - [gnuion](https://github.com/gnuion)
 - Christina - [christina-ml](https://github.com/christina-ml)
-- [Add Your Name Here] (https://github.com/gnuion/championsChat/graphs/contributors)
+- [add-your-name-here](https://github.com/gnuion/championsChat/graphs/contributors)
 
 ## Acknowledgments
 
